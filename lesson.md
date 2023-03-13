@@ -11,3 +11,6 @@ miska
 
 lopost
 
+ventilyatora
+
+cyfrovogo
